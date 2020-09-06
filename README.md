@@ -1,3 +1,3 @@
 # Home-automation
-Full home automation project on the Adafriuit and IFTT basic.
+IOT Based  home automation project  with  Adafriuit and IFTT basic.
 ![Test Image 1](1.png)
